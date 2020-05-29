@@ -15,6 +15,8 @@
 * Java Oracle JDK 1.8_251 
 * Adictional Resources gettext curl git
 
+*Docker Hub:* https://hub.docker.com/r/pcbarreto/maven-oracle
+
 *Image Base Alpine `FROM alpine:3.5` (Official Docker Hub Image):*
 * DockerHub Repo: https://hub.docker.com/_/alpine?tab=tags&page=1&name=3.5
 
